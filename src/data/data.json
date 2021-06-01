@@ -1,0 +1,31 @@
+{
+  "ids": {
+    "users": 5
+  },
+  "models": {
+    "users": {
+      "id": 1,
+      "name": "Ajit M Shikalgar",
+      "tasks": [
+        {
+          "id": 1,
+          "name": "Sajid M Shikalgar",
+          "tasks": [
+            {
+              "id": 1,
+              "title": "Task 1",
+              "description": "This is of utmost importance",
+              "priority": 1
+            },
+            {
+              "id": 2,
+              "title": "Task 2",
+              "description": "This is of least importance",
+              "priority": 100
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
